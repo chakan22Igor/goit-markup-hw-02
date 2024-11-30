@@ -1,0 +1,21 @@
+body{
+    font-family: "Roboto", "Raleway", sans-serif;
+    color: #2E2F42; 
+    font-size: 16px;
+    font-height: 24px;
+}
+.body .p{
+    
+}
+h3{
+  color: #2E2F42;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-height: 40px;
+}
+list{
+    color:#434455;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-height: 24px;
+}
