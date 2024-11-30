@@ -4,18 +4,98 @@ body{
     font-size: 16px;
     font-height: 24px;
 }
-.body .p{
-    
+.navigation{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2E2F42;
+    text-decoration: none;
 }
-h3{
+.address{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2E2F42;
+    text-decoration: none;
+}
+    
+.logo1{
+    font-family: "Raleway", sans-serif;
+    color: #4D5AE5;
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.logo2{
+font-family:"Raleway", sans-serif;
+color:#2E2F42;
+font-size: 18px;
+line-height: 21px;
+font-weight: 700;
+text-decoration: none;
+}
+.header2{
+
+}
+.header3{
   color: #2E2F42;
   font-family: "Roboto";
   font-size: 36px;
-  font-height: 40px;
+  line-height: 40px;
 }
-list{
+.list-benefits{
     color:#434455;
     font-family: "Roboto";
     font-size: 16px;
-    font-height: 24px;
+    line-height: 24px;
+}
+.button{
+    color: #ffff;
+    background-color: #4D5AE5 ;
+    cursor:pointer;
+    font-style:normal;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+.hero{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px ;
+    line-height: 60px ;
+    color: #ffff;
+    background-color: #2E2F42 ;
+
+}
+.our-team{
+font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #2E2F42;
+    background-color: #F4F4FD;
+}
+.portfolio{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #2E2F42;
+    background-color: #ffff;
+}
+.footer-text{
+    color:#F4F4FD;
+    background-color:#2E2F42;
+}
+.logo3 {
+    font-family: "Raleway", sans-serif;
+    color: #F4F4FD;
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 700;
+    text-decoration: none;
 }
