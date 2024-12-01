@@ -12,7 +12,7 @@ body{
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02;
     list-style: none;
     text-decoration: none;
 }
@@ -20,7 +20,7 @@ body{
     color:#404BBF
 }
 .studio_logo{
-    color:#2E2F42
+    color:#2e2f42;
     font-size: 18px;
 }
 .studio_nav{
@@ -38,8 +38,8 @@ a{
 color:#4D5AE5;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
-line-height: 21px;
-letter-spacing: 3%;
+line-height: 1.17;
+letter-spacing: 0.03;
 text-transform: uppercase;
 font-size: 18px
 }
