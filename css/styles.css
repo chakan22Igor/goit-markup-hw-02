@@ -68,6 +68,18 @@ font-family: "Raleway", sans-serif;
     list-style: none;
     font-style:normal;
 }
+.telmail:hover
+.telmail:focus{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+    list-style: none;
+    font-style: normal;
+}
 ul{
     list-style: none;
 }
@@ -92,7 +104,10 @@ ul{
     text-align: center;
     cursor: pointer;
 }
-.button:focus,
+.button:focus{
+    background-color: #404BBF;
+    cursor: pointer;
+}
 .button:hover{
     background-color: #404BBF;
     cursor:pointer;
