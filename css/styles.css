@@ -1,6 +1,7 @@
 body{
-    font-family: "Roboto", "Raleway", sans-serif;
-    color: #2E2F42; 
+    font-family: "Roboto", sans-serif;
+    color: #434455; 
+    background-color: #FFFFF;
     font-size: 16px;
     font-height: 24px;
 }
