@@ -28,7 +28,7 @@ body{
     color: #2E2F42
 }
 .studio_nav:hover,
-.studio_nav:active{
+.studio_nav:focus{
     color:#404BBF;
     text-decoration: underline;
     letter-spacing: 0.03em
@@ -158,6 +158,11 @@ ul{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
+}
+.serv_p{
+    font-size: 16px;
+    line-height: 1.5;
+    color:#434455;
 }
 /* footer */
 .web_footer {
