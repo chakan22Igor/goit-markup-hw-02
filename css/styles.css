@@ -27,10 +27,7 @@ body{
 .studio_nav{
     color: #2E2F42
 }
-.studio_nav:hover{
-    color: #404BBF;
-    letter-spacing: 0.03em
-}
+.studio_nav:hover,
 .studio_nav:active{
     color:#404BBF;
     text-decoration: underline;
@@ -68,14 +65,25 @@ font-family: "Raleway", sans-serif;
     list-style: none;
     font-style:normal;
 }
-.telmail:hover
-.telmail:focus{
+.telmail{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-decoration: none;
+    list-style: none;
+    font-style: normal;
+}
+.telmail:hover,
+.telmail:focus{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
     text-decoration: none;
     list-style: none;
     font-style: normal;
