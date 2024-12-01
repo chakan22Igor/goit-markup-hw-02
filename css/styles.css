@@ -2,7 +2,7 @@ body{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color:#434455;
     background-color: #FFFFFF;
 }
@@ -11,15 +11,15 @@ body{
     color:#2E2F42;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     list-style: none;
     text-decoration: none;
 }
 .navigation:hover{
     color:#404BBF
 }
-.studio_logo{
+.studio{
     color:#2e2f42;
     font-size: 18px;
 }
@@ -39,7 +39,7 @@ color:#4D5AE5;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 line-height: 1.17;
-letter-spacing: 0.03;
+letter-spacing: 0.03em;
 text-transform: uppercase;
 font-size: 18px
 }
@@ -48,20 +48,20 @@ color:#2E2F42;
 font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
-    letter-spacing: 3%;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .address{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color:#434455;
     text-decoration: none;
     list-style: none;
-    font-style:normal
+    font-style:normal;
 }
 ul{
     list-style: none;
@@ -71,8 +71,8 @@ ul{
     font-family:"Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
-    letter-spacing: 2%;
+    line-height: 0.93;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;
     background-color: #2E2F42;
@@ -82,8 +82,8 @@ button{
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 4%;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     text-align: center;
 }
 /* section 1 */
@@ -99,12 +99,31 @@ button{
     background-color: #ffffff;
 }
 /* footer */
+.web_footer {
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-size: 18px
+}
 .studio_footer{
     color: #F4F4FD;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
 }
 .footer{
     background-color: #2E2F42;
     color:#F4F4FD;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.footer_p {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
