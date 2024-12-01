@@ -3,7 +3,8 @@ body{
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 2%;
-    color:#2E2F42
+    color:#434455;
+    background-color: #ffffff;
 }
 /* header */
 .navigation{
@@ -20,6 +21,7 @@ body{
 }
 .studio_logo{
     color:#2E2F42
+    font-size: 18px;
 }
 .studio_nav{
     color: #2E2F42
@@ -34,26 +36,26 @@ a{
 }
 .web{
 color:#4D5AE5;
-font-family: "Raleway";
+font-family: "Raleway", sans-serif;
 font-weight: 700;
-size: 18px;
 line-height: 21px;
 letter-spacing: 3%;
 text-transform: uppercase;
+font-size: 18px
 }
 .studio{
 color:#2E2F42;
-font-family: "Raleway";
+font-family: "Raleway", sans-serif;
     font-weight: 700;
-    size: 18px;
+    font-size: 18px;
     line-height: 21px;
     letter-spacing: 3%;
     text-transform: uppercase;
 }
 .address{
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
-    size: 16px;
+    font-size: 16px;
     line-height: 24px;
     letter-spacing: 2%;
     color:#434455;
@@ -66,9 +68,9 @@ ul{
 }
 /* Hero */
 .hero{
-    font-family:"Roboto";
+    font-family:"Roboto", sans-serif;
     font-weight: 700;
-    size: 56px;
+    font-size: 56px;
     line-height: 60px;
     letter-spacing: 2%;
     text-align: center;
