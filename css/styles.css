@@ -154,15 +154,17 @@ ul{
 }
 .serv_head{
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     color:#2e2f42;
+    text-transform: capitalize;
 }
 .serv_p{
     font-size: 16px;
     line-height: 1.5;
     color:#434455;
+    letter-spacing: 0.02em;
 }
 /* footer */
 .web_footer {
