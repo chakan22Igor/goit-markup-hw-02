@@ -16,6 +16,7 @@ body{
     list-style: none;
     text-decoration: none;
 }
+.navigation:focus,
 .navigation:hover{
     color:#404BBF
 }
@@ -177,7 +178,7 @@ ul{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42;
+    color: #ffffff;
 }
 .serv-head{
     font-weight: 500;
