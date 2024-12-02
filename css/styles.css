@@ -121,7 +121,9 @@ ul{
     cursor:pointer;
 }
 /* section 1 */
-.list{}
+.listben{
+    background-color: #FFFFFF;
+}
 
 /* section 2 */
 .team{
