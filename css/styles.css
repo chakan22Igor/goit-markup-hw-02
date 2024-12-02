@@ -152,7 +152,7 @@ ul{
     text-transform: capitalize;
     background-color: #FFFFFF
 }
-.team_p{
+.team-p{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -179,7 +179,7 @@ ul{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.serv_head{
+.serv-head{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -187,11 +187,14 @@ ul{
     color:#2e2f42;
     text-transform: capitalize;
 }
-.ser_p{
+.ser-p{
     font-size: 16px;
     line-height: 1.5;
     color:#434455;
     letter-spacing: 0.02em;
+}
+.ls-color {
+    color: #FFFFFF;
 }
 /* footer */
 .web_footer {
