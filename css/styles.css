@@ -121,7 +121,7 @@ ul{
     cursor:pointer;
 }
 /* section 1 */
-
+.list{}
 
 /* section 2 */
 .team{
@@ -195,6 +195,7 @@ ul{
 }
 .ls-color {
     color: #FFFFFF;
+    background-color: #ffffff;
 }
 /* footer */
 .web_footer {
